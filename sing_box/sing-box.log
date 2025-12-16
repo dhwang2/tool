@@ -1,0 +1,300 @@
++0800 2025-12-16 11:07:37 ERROR outbound/urltest[🚀 auto]: timeout: no recent network activity
++0800 2025-12-16 11:07:37 ERROR clash-api: download external ui error: Get "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip": timeout: no recent network activity
++0800 2025-12-16 11:07:37 ERROR [2576860757 10.0s] dns: exchange failed for client.wns.windows.com. IN A: context deadline exceeded
++0800 2025-12-16 11:07:37 ERROR [3237235070 10.0s] dns: exchange failed for www.microsoft.com. IN A: context deadline exceeded
++0800 2025-12-16 11:07:37 ERROR [3508301511 10.10s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: i/o timeout
++0800 2025-12-16 11:07:38 ERROR [500260212 10.0s] dns: exchange failed for p.tencentmusic.com. IN A: context deadline exceeded
++0800 2025-12-16 11:07:38 ERROR [802605921 10.2s] dns: exchange failed for www.msftconnecttest.com. IN A: dial tcp 223.5.5.5:443: i/o timeout
++0800 2025-12-16 11:07:42 ERROR [127155262 14.99s] outbound/urltest[🚀 auto]: timeout: no recent network activity
++0800 2025-12-16 11:07:42 ERROR [127155262 14.99s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: timeout: no recent network activity
++0800 2025-12-16 11:07:47 ERROR [3374663778 19.75s] outbound/urltest[🚀 auto]: context canceled
++0800 2025-12-16 11:07:47 ERROR [1210178975 14.73s] outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [4144118571 45ms] connection: open connection to 223.5.5.5:443 using outbound/direct[🐸 direct]: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2576860757 19.48s] dns: exchange failed for client.wns.windows.com. IN A: context canceled
++0800 2025-12-16 11:07:47 ERROR [4008407721 7.42s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1400152604 45ms] connection: open connection to 223.5.5.5:443 using outbound/direct[🐸 direct]: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1779778515 4.72s] outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [753432050 9.72s] outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1029696445 1.72s] outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2477944781 6.72s] outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1210178975 14.73s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3374663778 19.75s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: context canceled
++0800 2025-12-16 11:07:47 ERROR [2872541650 3.38s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2201326190 6.40s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1779778515 4.73s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [500260212 18.26s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1743117745 45ms] connection: open connection to 35.212.131.110:443 using outbound/direct[🐸 direct]: dial tcp 35.212.131.110:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1392963154 6.49s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [959262063 1.38s] dns: exchange failed for ecs.office.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [500260212 18.27s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [48192499 3.59s] dns: exchange failed for assets.msn.cn. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [646199619 6.20s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [500260212 18.26s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1727096941 2.16s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2552013069 4.91s] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [145363427 3.91s] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3508301511 19.48s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3237235070 19.38s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3508301511 19.48s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3508301511 19.48s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [802605921 18.29s] dns: exchange failed for www.msftconnecttest.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [500260212 18.26s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [802605921 18.29s] dns: exchange failed for www.msftconnecttest.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1802116928 7.42s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2682384681 6.41s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3237235070 19.38s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2576860757 19.49s] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [4149260433 10.24s] dns: exchange failed for www.msftconnecttest.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3237235070 19.38s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2576860757 19.49s] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2382055256 893ms] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [355464931 2.90s] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2666658137 2.20s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [151013334 3.38s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2509538926 4.21s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3354658538 6.23s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [4213722046 5.39s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3354658538 6.23s] dns: exchange failed for dns.msftncsi.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3170698067 5.20s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2962805086 4.48s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1118501391 4.18s] dns: exchange failed for p.tencentmusic.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1029696445 1.73s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [802605921 18.29s] dns: exchange failed for www.msftconnecttest.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2477944781 6.73s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2201326190 6.40s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3399486849 5.49s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [753432050 9.72s] connection: listen packet connection using  using outbound/urltest[🚀 auto]: dial udp 35.212.131.110:8443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3237235070 19.37s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3161513075 4.60s] dns: exchange failed for assets.msn.cn. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1567582003 377ms] dns: exchange failed for ecs.office.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2922606302 2.47s] dns: exchange failed for www.microsoft.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [3508301511 19.48s] dns: exchange failed for dhwang2.top. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2576860757 19.49s] dns: exchange failed for client.wns.windows.com. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2892203992 584ms] dns: exchange failed for assets.msn.cn. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [1769650447 2.58s] dns: exchange failed for assets.msn.cn. IN A: dial tcp 223.5.5.5:443: operation was canceled
++0800 2025-12-16 11:07:47 ERROR [2383434930 7.11s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10468: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1289858270 9.30s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10356: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3947538625 3.57s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10726: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1021572994 4.40s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10615: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2013092676 5.54s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10552: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1921041202 7.36s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10456: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3539011243 6.19s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10517: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3511254856 5.34s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10563: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3021334076 1.22s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11539: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [241527813 3.20s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10852: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4281489532 4.3s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10632: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [880402619 163ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11832: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3626068636 5.99s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10531: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2115722555 7.38s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10453: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [674227500 731ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11680: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1813301449 3.73s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10663: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1663470503 7.8s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10470: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [966760553 6.74s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10487: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [683628286 7.91s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10425: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2329993480 3.74s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10650: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1592244389 8.12s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10412: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3901568201 6.46s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10503: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4205738336 5.16s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10573: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1909021021 4.49s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10609: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1162267923 8.91s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10376: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3567404153 1.81s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11338: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3499633926 7.94s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10423: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1010999794 247ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11811: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3127965397 5.81s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10540: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2594648456 1.56s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11423: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2868813354 5.62s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10550: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1879572826 1.88s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11317: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3599733734 6.90s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10481: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [245601425 8.31s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10403: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2813144762 9.1s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10371: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [330523003 2.82s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10986: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2261323959 5.6s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10578: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2617083859 3.11s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10883: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3301547690 7.29s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10458: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1324590252 6.84s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10483: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [477872410 1.45s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11458: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [74812635 3.29s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10821: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [945002033 3.55s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10728: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [789853039 887ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11635: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [101401669 7.58s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10442: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [306776556 5.71s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10545: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2549399913 9.41s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10349: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1829298134 2.30s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11172: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [968709217 1.63s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11399: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1759128047 4.69s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10597: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4087048622 582ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11718: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3182275938 806ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11659: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4078435972 1.71s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11371: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1167143613 8.68s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10386: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2994297340 4.21s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10623: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2487026786 3.29s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10826: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2981613425 80ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11858: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1653105394 645ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11703: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2035668229 1.6s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11586: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3791820097 7.1s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10473: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4069476343 5.24s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10569: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [119053955 742ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11675: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3554211115 7.83s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10430: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4080964123 5.33s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10565: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4182623989 10.48s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10325: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [731506500 1.13s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11570: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1992096325 9.11s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10366: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3696107014 6.54s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10500: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3997801861 3.1s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10916: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3122692609 2.6s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11252: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3298926505 8.29s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10406: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3850590032 11.4s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10313: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1718218765 8.3s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10418: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1714895273 2.21s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11200: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2364187917 5.15s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10575: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [762135585 8.1s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10420: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1871111876 6.64s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10496: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3707867247 9.84s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10339: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1622619744 400ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11773: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1538784990 7.17s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10466: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3319731101 563ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11725: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2626637024 6.93s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10478: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3414722230 1.64s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11392: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3813320799 4.31s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10620: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [234899832 5.63s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10547: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [124469576 2.5s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11260: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [816388021 9.65s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10343: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3043747202 662ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11697: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3102532572 7.27s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10461: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2283436463 10.3s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10335: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2909080860 10.95s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10315: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2851479592 8.82s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10377: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1970428020 3.84s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10645: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1107560844 9.93s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10336: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3024856523 5.90s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10535: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3455417535 7.76s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10433: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [934257553 2.38s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11145: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3209701276 1.79s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11345: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [146659096 5.53s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10555: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3896200812 8.79s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10381: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1618961018 1.97s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11279: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1096991138 4.59s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10602: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2662438461 6.1s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10528: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3967502528 7.45s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10450: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1162802976 2.31s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11165: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4090318483 2.74s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11016: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2380232655 10.39s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10327: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1410461655 5.26s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10567: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [758967162 8.48s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10395: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3878369051 1.48s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11450: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1375978441 2.23s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11194: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [689096213 2.64s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11043: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1935561656 3.9s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10889: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3037459459 8.10s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10416: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3380408735 3.37s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10796: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3710518780 3.46s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10768: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3910053330 7.67s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10437: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2465294704 4.68s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10599: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [184863627 1.6s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11592: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4018095588 9.33s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10353: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3021910839 7.47s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10448: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4249740659 6.81s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10486: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3468247578 7.19s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10462: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2520777317 5.6s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10580: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2681520321 822ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11652: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2940184981 10.21s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10330: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [969174697 499ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11741: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2706018725 9.74s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10341: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3422316905 334ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11788: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1773600941 1.21s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11546: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [726954960 6.72s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10491: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1356879002 990ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11607: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2179780833 4.11s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10629: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2872174189 9.56s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10345: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [949904039 2.13s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11227: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3612012761 1.38s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11483: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4240094170 4.98s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10582: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2473281957 10.57s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10322: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1258763399 10.30s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10329: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3112689423 4.31s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10618: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3802162189 9.13s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10363: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [228816088 7.65s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10441: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2024052634 6.9s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10526: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1457845354 1.72s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11364: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3435673202 10.85s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10316: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3164414575 6.28s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10513: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1051369534 3.65s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10688: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3681935516 3.93s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10637: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1905361657 4.77s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10595: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3985648344 9.20s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10361: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3454955984 1.55s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11426: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4156888021 2.47s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11110: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1722875068 2.54s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11084: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4139542401 8.41s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10398: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1256180332 2.92s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10949: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3023139272 2.72s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11020: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1181006117 3.92s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10640: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [860029973 4.59s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10605: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3727814636 8.19s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10411: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1876758357 3.39s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10794: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3380531391 320ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11795: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2345105040 232ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11818: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1974834289 480ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11748: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1646791367 10.67s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10320: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4192151244 6.10s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10522: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [806638120 6.56s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10498: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3422533470 5.44s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10558: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2520567165 147ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11839: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3349617180 9.48s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10346: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3524055707 8.51s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10392: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1069623959 6.18s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10521: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [608929705 8.39s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10401: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [660813256 4.21s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10624: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1181631918 9.4s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10367: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4074499235 4.87s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10590: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [742626178 2.15s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11219: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [87523680 4.79s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10592: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3639484512 2.39s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11138: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1855313899 6.27s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10516: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [214693263 6.37s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10508: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3063640163 7.74s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10436: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1031391743 7.0s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10475: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2300117605 4.97s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10584: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1779083249 7.85s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10428: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2236931883 8.59s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10390: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4114224973 8.61s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10388: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3725313895 4.2s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10635: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1772510162 4.41s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10612: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1592972853 2.91s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10956: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1190585064 4.13s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10628: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2456706168 3.64s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10693: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [647273304 5.73s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10542: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2647552581 2.83s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10982: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4170409013 5.82s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10537: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [664054303 7.55s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10446: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2956852042 1.31s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11503: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1737540418 11.15s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10311: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3788453942 1.15s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11564: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [388371557 2.46s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11116: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2889282097 5.91s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10532: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2509613488 6.44s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10506: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1976161104 1.30s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11510: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [335719628 4.51s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10607: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [354054615 8.22s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10407: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1033396224 5.43s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10560: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2624184745 8.94s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10373: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [576815571 10.12s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10332: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [531970849 10.76s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10319: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [560883647 9.39s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10351: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1051869946 416ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11763: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3646177154 6.36s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10511: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1400495013 1.96s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11287: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2866232052 3.1s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10923: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [855972328 976ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11614: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1033449399 4.88s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10587: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1960567547 3.85s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10643: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3375519827 8.71s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10382: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3830942835 2.63s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11051: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1482163419 1.89s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11312: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3605414806 9.23s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10358: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1395914412 6.65s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10493: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [3790065603 1.40s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11477: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1609212005 3.19s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10858: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [1972527027 3.48s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:10762: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [2512262422 2.56s] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11077: An existing connection was forcibly closed by the remote host.
++0800 2025-12-16 11:07:47 ERROR [4167799123 908ms] connection: connection upload closed: raw-read tcp4 172.19.0.1:59083->172.19.0.2:11628: An existing connection was forcibly closed by the remote host.
