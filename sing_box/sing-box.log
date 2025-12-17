@@ -1,0 +1,790 @@
++0800 2025-12-17 08:59:53 INFO network: updated default interface 以太网, index 6
++0800 2025-12-17 08:59:53 INFO outbound/direct[🐸 direct]: outbound connection to ghfast.top:443
++0800 2025-12-17 08:59:53 INFO outbound/direct[🐸 direct]: outbound connection to ghfast.top:443
++0800 2025-12-17 08:59:53 INFO outbound/direct[🐸 direct]: outbound connection to ghfast.top:443
++0800 2025-12-17 08:59:53 INFO outbound/direct[🐸 direct]: outbound connection to ghfast.top:443
++0800 2025-12-17 08:59:53 INFO outbound/direct[🐸 direct]: outbound connection to ghfast.top:443
++0800 2025-12-17 08:59:55 INFO router: updated rule-set adblock
++0800 2025-12-17 08:59:55 INFO router: updated rule-set twitter
++0800 2025-12-17 08:59:55 INFO router: updated rule-set telegram
++0800 2025-12-17 08:59:55 INFO router: updated rule-set tiktok
++0800 2025-12-17 08:59:55 INFO router: updated rule-set facebook
++0800 2025-12-17 08:59:55 INFO router: updated rule-set cn-ip
++0800 2025-12-17 08:59:55 INFO router: updated rule-set openai
++0800 2025-12-17 08:59:55 INFO router: updated rule-set !cn
++0800 2025-12-17 08:59:55 INFO router: updated rule-set bilibili
++0800 2025-12-17 08:59:56 INFO router: updated rule-set cn
++0800 2025-12-17 08:59:56 INFO router: updated rule-set gg-ip
++0800 2025-12-17 08:59:56 INFO router: updated rule-set tg-ip
++0800 2025-12-17 08:59:56 INFO router: updated rule-set google
++0800 2025-12-17 08:59:56 INFO router: updated rule-set ap-ip
++0800 2025-12-17 08:59:56 INFO router: updated rule-set youtube
++0800 2025-12-17 08:59:56 INFO router: updated rule-set tracker
++0800 2025-12-17 08:59:56 INFO router: updated rule-set games@cn
++0800 2025-12-17 08:59:56 INFO router: updated rule-set github
++0800 2025-12-17 08:59:57 INFO router: updated rule-set apple
++0800 2025-12-17 08:59:57 INFO inbound/mixed[mixed-in]: tcp server started at 0.0.0.0:7890
++0800 2025-12-17 08:59:57 INFO inbound/tun[tun-in]: started at tun0
++0800 2025-12-17 08:59:57 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 08:59:57 INFO outbound/tuic[tuic5_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 08:59:57 INFO outbound/hysteria2[hy2_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 08:59:57 INFO clash-api: downloading external ui using outbound/direct[🐸 direct]
++0800 2025-12-17 08:59:57 INFO outbound/direct[🐸 direct]: outbound connection to ghfast.top:443
++0800 2025-12-17 08:59:57 INFO [1357324420 0ms] inbound/tun[tun-in]: inbound connection from 192.168.1.2:64674
++0800 2025-12-17 08:59:57 INFO [1357324420 0ms] inbound/tun[tun-in]: inbound connection to 104.223.32.4:443
++0800 2025-12-17 08:59:57 INFO [1357324420 0ms] outbound/hysteria2[hy2_out]: outbound connection to 104.223.32.4:443
++0800 2025-12-17 08:59:57 INFO [100046129 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:54504
++0800 2025-12-17 08:59:57 INFO [100046129 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 08:59:57 INFO [986445871 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:53447
++0800 2025-12-17 08:59:57 INFO [986445871 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 08:59:57 INFO [100046129 9ms] dns: rejected CNAME www.msftconnecttest.com. 1669 IN CNAME ncsi-geo.trafficmanager.net.
++0800 2025-12-17 08:59:57 INFO [100046129 9ms] dns: rejected CNAME ncsi-geo.trafficmanager.net. 1691 IN CNAME www.msftncsi.com.edgesuite.net.
++0800 2025-12-17 08:59:57 INFO [100046129 9ms] dns: rejected CNAME www.msftncsi.com.edgesuite.net. 288 IN CNAME a1961.g2.akamai.net.
++0800 2025-12-17 08:59:57 INFO [100046129 9ms] dns: rejected A a1961.g2.akamai.net. 9 IN A 95.101.22.211
++0800 2025-12-17 08:59:57 INFO [100046129 9ms] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 08:59:57 INFO [100046129 9ms] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 08:59:57 INFO [671496141 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64675
++0800 2025-12-17 08:59:57 INFO [671496141 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 08:59:57 INFO [671496141 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 08:59:57 INFO [569804255 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:56336
++0800 2025-12-17 08:59:57 INFO [569804255 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 08:59:57 INFO [1266658296 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:51524
++0800 2025-12-17 08:59:57 INFO [1266658296 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 08:59:57 INFO [569804255 8ms] dns: exchanged CNAME www.microsoft.com. 11 IN CNAME www.microsoft.com-c-3.edgekey.net.
++0800 2025-12-17 08:59:57 INFO [569804255 8ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net. 11 IN CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
++0800 2025-12-17 08:59:57 INFO [569804255 8ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net. 11 IN CNAME e13678.ca2.s.tl88.net.
++0800 2025-12-17 08:59:57 INFO [569804255 8ms] dns: exchanged A e13678.ca2.s.tl88.net. 11 IN A 218.58.101.49
++0800 2025-12-17 08:59:57 INFO [1266658296 65ms] dns: rejected CNAME geo.prod.do.dsp.mp.microsoft.com. 1495 IN CNAME geo.prod.do.dsp.trafficmanager.net.
++0800 2025-12-17 08:59:57 INFO [1266658296 65ms] dns: rejected CNAME geo.prod.do.dsp.trafficmanager.net. 8 IN CNAME array512.prod.do.dsp.mp.microsoft.com.
++0800 2025-12-17 08:59:57 INFO [1266658296 65ms] dns: rejected A array512.prod.do.dsp.mp.microsoft.com. 1517 IN A 72.153.5.133
++0800 2025-12-17 08:59:57 INFO [1266658296 65ms] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 08:59:57 INFO [1266658296 65ms] dns: exchanged A geo.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.4
++0800 2025-12-17 08:59:57 INFO [2705011099 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64676
++0800 2025-12-17 08:59:57 INFO [2705011099 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.4:443
++0800 2025-12-17 08:59:57 INFO [2705011099 1ms] outbound/hysteria2[hy2_out]: outbound connection to geo.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 08:59:57 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 08:59:59 INFO [569804255 1.55s] dns: rejected CNAME aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1481 IN CNAME edge-cloudmessaging-access-point-aks-prod-je.japaneast.cloudapp.azure.com.
++0800 2025-12-17 08:59:59 INFO [569804255 1.55s] dns: rejected A edge-cloudmessaging-access-point-aks-prod-je.japaneast.cloudapp.azure.com. 3 IN A 48.210.190.78
++0800 2025-12-17 08:59:59 INFO [569804255 1.55s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 08:59:59 INFO [569804255 1.55s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 08:59:59 INFO [2567921848 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51354
++0800 2025-12-17 08:59:59 INFO [2567921848 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 08:59:59 INFO [2567921848 0ms] outbound/vless[vless_reality_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 08:59:59 INFO [1266658296 1.68s] dns: rejected CNAME mtalk.google.com. 298 IN CNAME mobile-gtalk.l.google.com.
++0800 2025-12-17 08:59:59 INFO [1266658296 1.68s] dns: rejected A mobile-gtalk.l.google.com. 17 IN A 74.125.195.188
++0800 2025-12-17 08:59:59 INFO [1266658296 1.68s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 08:59:59 INFO [1266658296 1.68s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 08:59:59 INFO [4068745227 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64195
++0800 2025-12-17 08:59:59 INFO [4068745227 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 08:59:59 INFO [4068745227 0ms] outbound/vless[vless_reality_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 08:59:59 INFO [569804255 1.81s] dns: rejected CNAME kv801.prod.do.dsp.mp.microsoft.com. 1423 IN CNAME kv801.prod.do.dsp.mp.microsoft.com.edgekey.net.
++0800 2025-12-17 08:59:59 INFO [569804255 1.81s] dns: rejected CNAME kv801.prod.do.dsp.mp.microsoft.com.edgekey.net. 1492 IN CNAME e12437.d.akamaiedge.net.
++0800 2025-12-17 08:59:59 INFO [569804255 1.81s] dns: rejected A e12437.d.akamaiedge.net. 6 IN A 184.25.54.48
++0800 2025-12-17 08:59:59 INFO [569804255 1.81s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 08:59:59 INFO [569804255 1.81s] dns: exchanged A kv801.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.7
++0800 2025-12-17 08:59:59 INFO [1772300814 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64197
++0800 2025-12-17 08:59:59 INFO [1772300814 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.7:443
++0800 2025-12-17 08:59:59 INFO [1772300814 0ms] outbound/vless[vless_reality_out]: outbound connection to kv801.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 08:59:59 INFO [2567921848 434ms] outbound/vless[vless_reality_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 08:59:59 INFO [4068745227 438ms] outbound/vless[vless_reality_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:00:00 INFO [1772300814 395ms] outbound/vless[vless_reality_out]: outbound connection to kv801.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:00:00 INFO clash-api: restful api listening at [::]:9090
++0800 2025-12-17 09:00:00 INFO sing-box started (7.399s)
++0800 2025-12-17 09:00:02 INFO [1266658296 4.51s] dns: rejected CNAME v10.events.data.microsoft.com. 28 IN CNAME win-global-asimov-leafs-events-data.trafficmanager.net.
++0800 2025-12-17 09:00:02 INFO [1266658296 4.51s] dns: rejected CNAME win-global-asimov-leafs-events-data.trafficmanager.net. 22 IN CNAME onedscolprdeus20.eastus.cloudapp.azure.com.
++0800 2025-12-17 09:00:02 INFO [1266658296 4.51s] dns: rejected A onedscolprdeus20.eastus.cloudapp.azure.com. 3 IN A 20.42.65.93
++0800 2025-12-17 09:00:02 INFO [1266658296 4.51s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:00:02 INFO [1266658296 4.51s] dns: exchanged A v10.events.data.microsoft.com. 1 IN A 198.18.0.8
++0800 2025-12-17 09:00:02 INFO [2255577406 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64201
++0800 2025-12-17 09:00:02 INFO [2255577406 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.8:443
++0800 2025-12-17 09:00:02 INFO [2255577406 0ms] outbound/vless[vless_reality_out]: outbound connection to v10.events.data.microsoft.com:443
++0800 2025-12-17 09:00:02 INFO [569804255 4.65s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:00:02 INFO [1266658296 4.65s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:00:02 INFO [1691066438 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58549
++0800 2025-12-17 09:00:02 INFO [1691066438 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:00:02 INFO [622145209 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61311
++0800 2025-12-17 09:00:02 INFO [622145209 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:00:02 INFO [1691066438 0ms] outbound/vless[vless_reality_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:00:02 INFO [622145209 0ms] outbound/vless[vless_reality_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:00:02 INFO [2255577406 433ms] outbound/vless[vless_reality_out]: outbound connection to v10.events.data.microsoft.com:443
++0800 2025-12-17 09:00:02 INFO [1691066438 393ms] outbound/vless[vless_reality_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:00:02 INFO [622145209 401ms] outbound/vless[vless_reality_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:00:05 INFO [569804255 7.90s] dns: rejected A dhwang2.top. 300 IN A 47.77.209.209
++0800 2025-12-17 09:00:05 INFO [569804255 7.90s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:00:05 INFO [569804255 7.90s] dns: exchanged A dhwang2.top. 1 IN A 198.18.0.9
++0800 2025-12-17 09:00:05 INFO [444620357 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57674
++0800 2025-12-17 09:00:05 INFO [444620357 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.9:23292
++0800 2025-12-17 09:00:05 INFO [444620357 0ms] outbound/vless[vless_reality_out]: outbound connection to dhwang2.top:23292
++0800 2025-12-17 09:00:06 INFO [444620357 428ms] outbound/vless[vless_reality_out]: outbound connection to dhwang2.top:23292
++0800 2025-12-17 09:00:06 INFO [569804255 9.0s] dns: exchanged CNAME beacons.gcp.gvt2.com. 110 IN CNAME beacons-handoff.gcp.gvt2.com.
++0800 2025-12-17 09:00:06 INFO [569804255 9.0s] dns: exchanged A beacons-handoff.gcp.gvt2.com. 110 IN A 114.250.69.34
++0800 2025-12-17 09:00:06 INFO [3557607343 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:52410
++0800 2025-12-17 09:00:06 INFO [3557607343 0ms] inbound/tun[tun-in]: inbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:06 INFO [871701164 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59812
++0800 2025-12-17 09:00:06 INFO [871701164 0ms] inbound/tun[tun-in]: inbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:06 INFO [3557607343 0ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:06 INFO [871701164 0ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:06 INFO [1266658296 9.1s] dns: rejected A www.google.com. 124 IN A 31.13.88.169
++0800 2025-12-17 09:00:06 INFO [1266658296 9.1s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:00:06 INFO [1266658296 9.1s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:00:06 INFO [3309468569 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:65417
++0800 2025-12-17 09:00:06 INFO [3309468569 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:00:06 INFO [3309468569 0ms] outbound/vless[vless_reality_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:00:07 INFO [3376320256 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58753
++0800 2025-12-17 09:00:07 INFO [3376320256 0ms] inbound/tun[tun-in]: inbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:07 INFO [3376320256 0ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:07 INFO [3557607343 432ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:07 INFO [871701164 435ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:07 INFO [3309468569 436ms] outbound/vless[vless_reality_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:00:07 INFO [3376320256 438ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.69.34:443
++0800 2025-12-17 09:00:08 INFO [569804255 10.26s] dns: exchanged A clientservices.googleapis.com. 295 IN A 114.250.67.34
++0800 2025-12-17 09:00:08 INFO [3902796909 0ms] inbound/tun[tun-in]: inbound packet connection from 172.18.0.1:63006
++0800 2025-12-17 09:00:08 INFO [3902796909 0ms] inbound/tun[tun-in]: inbound packet connection to 114.250.67.34:443
++0800 2025-12-17 09:00:08 INFO [3902796909 0ms] outbound/vless[vless_reality_out]: outbound packet connection to 114.250.67.34:443
++0800 2025-12-17 09:00:08 INFO [3902796909 0ms] outbound/vless[vless_reality_out]: outbound packet connection to 114.250.67.34:443
++0800 2025-12-17 09:00:08 INFO [1812265338 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57811
++0800 2025-12-17 09:00:08 INFO [1812265338 0ms] inbound/tun[tun-in]: inbound connection to 114.250.67.34:443
++0800 2025-12-17 09:00:08 INFO [1812265338 0ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.67.34:443
++0800 2025-12-17 09:00:08 INFO [1812265338 440ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.67.34:443
++0800 2025-12-17 09:00:09 INFO [1266658296 11.28s] dns: exchanged A b1.nel.goog. 53 IN A 114.250.68.34
++0800 2025-12-17 09:00:09 INFO [3853607178 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:50807
++0800 2025-12-17 09:00:09 INFO [3853607178 0ms] inbound/tun[tun-in]: inbound connection to 114.250.68.34:443
++0800 2025-12-17 09:00:09 INFO [3853607178 0ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.68.34:443
++0800 2025-12-17 09:00:09 INFO [3853607178 439ms] outbound/vless[vless_reality_out]: outbound connection to 114.250.68.34:443
++0800 2025-12-17 09:00:11 INFO [569804255 13.65s] dns: rejected CNAME alive.github.com. 1395 IN CNAME live.github.com.
++0800 2025-12-17 09:00:11 INFO [569804255 13.65s] dns: rejected A live.github.com. 19 IN A 140.82.112.26
++0800 2025-12-17 09:00:11 INFO [569804255 13.65s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:00:11 INFO [569804255 13.65s] dns: exchanged A alive.github.com. 1 IN A 198.18.0.11
++0800 2025-12-17 09:00:11 INFO [1495997267 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55901
++0800 2025-12-17 09:00:11 INFO [1495997267 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.11:443
++0800 2025-12-17 09:00:11 INFO [1495997267 0ms] outbound/vless[vless_reality_out]: outbound connection to alive.github.com:443
++0800 2025-12-17 09:00:11 INFO [1495997267 396ms] outbound/vless[vless_reality_out]: outbound connection to alive.github.com:443
++0800 2025-12-17 09:00:15 ERROR [871701164 8.68s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10016: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [3309468569 8.67s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10017: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [3853607178 6.40s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10020: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [1691066438 13.2s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10012: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [444620357 9.78s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10014: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [622145209 13.2s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10013: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [1495997267 4.3s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10022: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [3557607343 8.68s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10015: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:00:15 ERROR [1812265338 7.42s] connection: connection upload closed: raw-read tcp4 172.18.0.1:64671->172.18.0.2:10019: An existing connection was forcibly closed by the remote host.
++0800 2025-12-17 09:04:16 INFO network: updated default interface 以太网, index 6
++0800 2025-12-17 09:04:16 INFO inbound/mixed[mixed-in]: tcp server started at 0.0.0.0:7890
++0800 2025-12-17 09:04:16 INFO inbound/tun[tun-in]: started at tun0
++0800 2025-12-17 09:04:17 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:04:17 INFO outbound/tuic[tuic5_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:04:17 INFO outbound/hysteria2[hy2_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:04:17 INFO clash-api: restful api listening at [::]:9090
++0800 2025-12-17 09:04:17 INFO sing-box started (0.344s)
++0800 2025-12-17 09:04:17 INFO [1647577504 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:57363
++0800 2025-12-17 09:04:17 INFO [1647577504 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:17 INFO [3189138476 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:59768
++0800 2025-12-17 09:04:17 INFO [3189138476 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:17 INFO [1647577504 0ms] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 09:04:17 INFO [919153102 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:53669
++0800 2025-12-17 09:04:17 INFO [919153102 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 09:04:17 INFO [919153102 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 09:04:17 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:04:17 INFO [2737422560 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:50141
++0800 2025-12-17 09:04:17 INFO [2737422560 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:17 INFO [2737422560 0ms] dns: exchanged A geo.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.4
++0800 2025-12-17 09:04:17 INFO [429347185 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:54068
++0800 2025-12-17 09:04:17 INFO [429347185 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:17 INFO [4232888379 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:53670
++0800 2025-12-17 09:04:17 INFO [4232888379 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.4:443
++0800 2025-12-17 09:04:17 INFO [4232888379 0ms] outbound/hysteria2[hy2_out]: outbound connection to geo.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:04:17 INFO [2737422560 67ms] dns: exchanged CNAME www.microsoft.com. 4 IN CNAME www.microsoft.com-c-3.edgekey.net.
++0800 2025-12-17 09:04:17 INFO [2737422560 67ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net. 4 IN CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
++0800 2025-12-17 09:04:17 INFO [2737422560 67ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net. 4 IN CNAME e13678.ca2.s.tl88.net.
++0800 2025-12-17 09:04:17 INFO [2737422560 67ms] dns: exchanged A e13678.ca2.s.tl88.net. 4 IN A 218.58.101.49
++0800 2025-12-17 09:04:18 INFO [2737422560 1.50s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:04:18 INFO [694933652 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:62623
++0800 2025-12-17 09:04:18 INFO [377522059 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:59379
++0800 2025-12-17 09:04:18 INFO [314190656 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:53616
++0800 2025-12-17 09:04:18 INFO [314190656 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [2044068826 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:65034
++0800 2025-12-17 09:04:18 INFO [694933652 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [4179506184 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:65392
++0800 2025-12-17 09:04:18 INFO [4179506184 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [377522059 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [3926805799 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:52262
++0800 2025-12-17 09:04:18 INFO [3926805799 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [314190656 0ms] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:04:18 INFO [1430755447 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:54207
++0800 2025-12-17 09:04:18 INFO [1430755447 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [2044068826 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [346723518 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:57966
++0800 2025-12-17 09:04:18 INFO [346723518 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:04:18 INFO [470879604 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:52502
++0800 2025-12-17 09:04:18 INFO [470879604 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:443
++0800 2025-12-17 09:04:18 INFO [2906347753 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51576
++0800 2025-12-17 09:04:18 INFO [2906347753 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:04:18 INFO [470879604 0ms] outbound/hysteria2[hy2_out]: outbound connection to mtalk.google.com:443
++0800 2025-12-17 09:04:18 INFO [2906347753 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:04:19 INFO [429347185 1.51s] dns: rejected CNAME collector.github.com. 2433 IN CNAME glb-db52c2cf8be544.github.com.
++0800 2025-12-17 09:04:19 INFO [429347185 1.51s] dns: rejected A glb-db52c2cf8be544.github.com. 27 IN A 140.82.113.21
++0800 2025-12-17 09:04:19 INFO [429347185 1.51s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:19 INFO [429347185 1.51s] dns: exchanged A collector.github.com. 1 IN A 198.18.0.12
++0800 2025-12-17 09:04:19 INFO [694933652 9ms] dns: rejected A github.githubassets.com. 3147 IN A 185.199.110.154
++0800 2025-12-17 09:04:19 INFO [694933652 9ms] dns: rejected A github.githubassets.com. 3147 IN A 185.199.109.154
++0800 2025-12-17 09:04:19 INFO [694933652 9ms] dns: rejected A github.githubassets.com. 3147 IN A 185.199.108.154
++0800 2025-12-17 09:04:19 INFO [694933652 9ms] dns: rejected A github.githubassets.com. 3147 IN A 185.199.111.154
++0800 2025-12-17 09:04:19 INFO [694933652 9ms] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:19 INFO [694933652 9ms] dns: exchanged A github.githubassets.com. 1 IN A 198.18.0.13
++0800 2025-12-17 09:04:19 INFO [1430755447 9ms] dns: rejected A github.com. 43 IN A 20.205.243.166
++0800 2025-12-17 09:04:19 INFO [1430755447 9ms] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:19 INFO [1430755447 9ms] dns: exchanged A github.com. 1 IN A 198.18.0.14
++0800 2025-12-17 09:04:19 INFO [1375546449 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57335
++0800 2025-12-17 09:04:19 INFO [1375546449 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:04:19 INFO [3109419467 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57486
++0800 2025-12-17 09:04:19 INFO [3109419467 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:04:19 INFO [1375546449 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:04:19 INFO [3109419467 1ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:04:19 INFO [2737422560 1.52s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:04:19 INFO [3194307573 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54853
++0800 2025-12-17 09:04:19 INFO [3194307573 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:04:19 INFO [3194307573 0ms] outbound/hysteria2[hy2_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:04:19 INFO [3926805799 102ms] dns: exchanged A kv801.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.7
++0800 2025-12-17 09:04:19 INFO [2014811894 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54854
++0800 2025-12-17 09:04:19 INFO [2014811894 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.7:443
++0800 2025-12-17 09:04:19 INFO [2014811894 1ms] outbound/hysteria2[hy2_out]: outbound connection to kv801.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:04:19 INFO [3083533970 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58103
++0800 2025-12-17 09:04:19 INFO [3083533970 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:04:19 INFO [3083533970 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:04:19 INFO [28524488 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58477
++0800 2025-12-17 09:04:19 INFO [28524488 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:04:19 INFO [177220317 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:62871
++0800 2025-12-17 09:04:19 INFO [177220317 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:04:19 INFO [28524488 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:04:19 INFO [177220317 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected CNAME assets.msn.com. 188 IN CNAME assets-msn-com-world-atm-default.trafficmanager.net.
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected CNAME assets-msn-com-world-atm-default.trafficmanager.net. 16 IN CNAME assets.msn.com-ion.edgesuite.net.
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected CNAME assets.msn.com-ion.edgesuite.net. 24 IN CNAME a1666.dscr.akamai.net.
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected A a1666.dscr.akamai.net. 8 IN A 2.17.107.139
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected A a1666.dscr.akamai.net. 8 IN A 2.17.107.170
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected A a1666.dscr.akamai.net. 8 IN A 2.17.107.211
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected A a1666.dscr.akamai.net. 8 IN A 2.17.107.179
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected A a1666.dscr.akamai.net. 8 IN A 2.17.107.171
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:19 INFO [377522059 623ms] dns: exchanged A assets.msn.com. 1 IN A 198.18.0.15
++0800 2025-12-17 09:04:22 INFO [429347185 4.94s] dns: exchanged A github.com. 1 IN A 198.18.0.14
++0800 2025-12-17 09:04:22 INFO [3926805799 3.43s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:04:22 INFO [2044068826 3.43s] dns: exchanged A github.githubassets.com. 1 IN A 198.18.0.13
++0800 2025-12-17 09:04:22 INFO [377522059 3.43s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:04:22 INFO [4179506184 3.43s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:04:22 INFO [1089015649 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64053
++0800 2025-12-17 09:04:22 INFO [1089015649 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:04:22 INFO [978794429 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55778
++0800 2025-12-17 09:04:22 INFO [978794429 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:04:22 INFO [2092952617 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:62769
++0800 2025-12-17 09:04:22 INFO [2092952617 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:04:22 INFO [182826634 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55751
++0800 2025-12-17 09:04:22 INFO [182826634 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:04:22 INFO [1089015649 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:04:22 INFO [978794429 0ms] outbound/hysteria2[hy2_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:04:22 INFO [2092952617 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:04:22 INFO [182826634 0ms] outbound/hysteria2[hy2_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:04:22 INFO [1681799858 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:49883
++0800 2025-12-17 09:04:22 INFO [1681799858 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:04:22 INFO [1681799858 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:04:22 INFO [2737422560 4.95s] dns: rejected A api.github.com. 38 IN A 20.205.243.168
++0800 2025-12-17 09:04:22 INFO [346723518 3.44s] dns: rejected A avatars.githubusercontent.com. 2450 IN A 185.199.109.133
++0800 2025-12-17 09:04:22 INFO [2737422560 4.95s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:22 INFO [346723518 3.44s] dns: rejected A avatars.githubusercontent.com. 2450 IN A 185.199.108.133
++0800 2025-12-17 09:04:22 INFO [346723518 3.44s] dns: rejected A avatars.githubusercontent.com. 2450 IN A 185.199.111.133
++0800 2025-12-17 09:04:22 INFO [346723518 3.44s] dns: rejected A avatars.githubusercontent.com. 2450 IN A 185.199.110.133
++0800 2025-12-17 09:04:22 INFO [346723518 3.44s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:22 INFO [2737422560 4.95s] dns: exchanged A api.github.com. 1 IN A 198.18.0.16
++0800 2025-12-17 09:04:22 INFO [346723518 3.44s] dns: exchanged A avatars.githubusercontent.com. 1 IN A 198.18.0.17
++0800 2025-12-17 09:04:22 INFO [1074016421 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55812
++0800 2025-12-17 09:04:22 INFO [1074016421 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:04:22 INFO [1155543232 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:50960
++0800 2025-12-17 09:04:22 INFO [1155543232 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.17:443
++0800 2025-12-17 09:04:22 INFO [1074016421 0ms] outbound/hysteria2[hy2_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:04:22 INFO [1155543232 0ms] outbound/hysteria2[hy2_out]: outbound connection to avatars.githubusercontent.com:443
++0800 2025-12-17 09:04:22 INFO [314190656 3.44s] dns: rejected A user-images.githubusercontent.com. 2447 IN A 185.199.108.133
++0800 2025-12-17 09:04:22 INFO [314190656 3.44s] dns: rejected A user-images.githubusercontent.com. 2447 IN A 185.199.111.133
++0800 2025-12-17 09:04:22 INFO [314190656 3.44s] dns: rejected A user-images.githubusercontent.com. 2447 IN A 185.199.110.133
++0800 2025-12-17 09:04:22 INFO [314190656 3.44s] dns: rejected A user-images.githubusercontent.com. 2447 IN A 185.199.109.133
++0800 2025-12-17 09:04:22 INFO [314190656 3.44s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:22 INFO [314190656 3.44s] dns: exchanged A user-images.githubusercontent.com. 1 IN A 198.18.0.18
++0800 2025-12-17 09:04:22 INFO [183055352 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63498
++0800 2025-12-17 09:04:22 INFO [183055352 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:04:22 INFO [183055352 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected CNAME github-cloud.s3.amazonaws.com. 3544 IN CNAME s3-1-w.amazonaws.com.
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected CNAME s3-1-w.amazonaws.com. 50 IN CNAME s3-w.us-east-1.amazonaws.com.
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 52.216.60.241
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 16.15.183.212
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 3.5.7.115
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 3.5.28.194
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 52.217.72.132
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 52.216.212.65
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 3.5.16.216
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected A s3-w.us-east-1.amazonaws.com. 5 IN A 16.182.66.97
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:22 INFO [2044068826 3.46s] dns: exchanged A github-cloud.s3.amazonaws.com. 1 IN A 198.18.0.19
++0800 2025-12-17 09:04:22 INFO [3478141228 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55387
++0800 2025-12-17 09:04:22 INFO [3478141228 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.17:443
++0800 2025-12-17 09:04:22 INFO [3478141228 0ms] outbound/hysteria2[hy2_out]: outbound connection to avatars.githubusercontent.com:443
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.250.73.106
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.250.73.138
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.250.69.170
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.251.45.138
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.250.217.74
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.251.33.74
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.251.34.202
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected A content-autofill.googleapis.com. 101 IN A 142.250.73.74
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:04:24 INFO [429347185 7.3s] dns: exchanged A content-autofill.googleapis.com. 1 IN A 198.18.0.20
++0800 2025-12-17 09:04:24 INFO [1996949639 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58992
++0800 2025-12-17 09:04:24 INFO [1996949639 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.20:443
++0800 2025-12-17 09:04:24 INFO [1996949639 0ms] outbound/hysteria2[hy2_out]: outbound connection to content-autofill.googleapis.com:443
++0800 2025-12-17 09:04:25 INFO [377522059 6.39s] dns: exchanged A collector.github.com. 1 IN A 198.18.0.12
++0800 2025-12-17 09:04:25 INFO [1006073420 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:49972
++0800 2025-12-17 09:04:25 INFO [1006073420 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:04:25 INFO [1006073420 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:04:25 INFO [24277628 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51277
++0800 2025-12-17 09:04:25 INFO [24277628 1ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:04:25 INFO [24277628 2ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:04:25 INFO [830897520 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55178
++0800 2025-12-17 09:04:25 INFO [830897520 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:04:25 INFO [830897520 2ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:04:26 INFO [3166765015 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54289
++0800 2025-12-17 09:04:26 INFO [3166765015 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:04:26 INFO [3166765015 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:04:38 INFO [2737422560 20.85s] dns: exchanged A alive.github.com. 1 IN A 198.18.0.11
++0800 2025-12-17 09:04:38 INFO [545996739 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:52342
++0800 2025-12-17 09:04:38 INFO [545996739 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.11:443
++0800 2025-12-17 09:04:38 INFO [545996739 0ms] outbound/hysteria2[hy2_out]: outbound connection to alive.github.com:443
++0800 2025-12-17 09:04:45 INFO [3982930630 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55039
++0800 2025-12-17 09:04:45 INFO [3982930630 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:04:45 INFO [3982930630 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:04:46 INFO [3289913716 0ms] inbound/tun[tun-in]: inbound packet connection from 172.18.0.1:55759
++0800 2025-12-17 09:04:46 INFO [3289913716 0ms] inbound/tun[tun-in]: inbound packet connection to 198.18.0.20:443
++0800 2025-12-17 09:04:46 INFO [3289913716 0ms] outbound/hysteria2[hy2_out]: outbound packet connection to content-autofill.googleapis.com:443
++0800 2025-12-17 09:05:00 INFO [4177444137 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59221
++0800 2025-12-17 09:05:00 INFO [4177444137 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:05:00 INFO [4177444137 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:05:04 INFO [4179506184 45.87s] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 09:05:04 INFO [1276660710 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59223
++0800 2025-12-17 09:05:04 INFO [1276660710 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 09:05:04 INFO [1276660710 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 09:05:04 INFO [314190656 45.97s] dns: rejected CNAME ipv6.msftconnecttest.com. 1477 IN CNAME ncsiv6-geo.trafficmanager.net.
++0800 2025-12-17 09:05:04 INFO [314190656 45.97s] dns: rejected CNAME ncsiv6-geo.trafficmanager.net. 10705 IN CNAME ipv6.msftconnecttest.com.edgesuite.net.
++0800 2025-12-17 09:05:04 INFO [314190656 45.97s] dns: rejected CNAME ipv6.msftconnecttest.com.edgesuite.net. 4870 IN CNAME a1968.i6g1.akamai.net.
++0800 2025-12-17 09:05:04 INFO [314190656 45.97s] dns: rejected SOA i6g1.akamai.net. 35 IN SOA n0i6g1.akamai.net. hostmaster.akamai.com. 1765932940 1000 1000 1000 1800
++0800 2025-12-17 09:05:04 INFO [314190656 45.97s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:05:04 INFO [314190656 45.97s] dns: exchanged A ipv6.msftconnecttest.com. 1 IN A 198.18.0.21
++0800 2025-12-17 09:05:04 INFO [4088934519 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59224
++0800 2025-12-17 09:05:04 INFO [4088934519 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.21:80
++0800 2025-12-17 09:05:04 INFO [4088934519 0ms] outbound/hysteria2[hy2_out]: outbound connection to ipv6.msftconnecttest.com:80
++0800 2025-12-17 09:05:05 ERROR [4088934519 644ms] connection: connection download closed: remote error: open connection to ipv6.msftconnecttest.com:80 using outbound/socks[residential_proxy]: socks5: request rejected, code=4
++0800 2025-12-17 09:05:11 INFO [2924724025 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:56425
++0800 2025-12-17 09:05:11 INFO [2924724025 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:05:11 INFO [2924724025 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:05:42 INFO network: updated default interface 以太网, index 6
++0800 2025-12-17 09:05:42 INFO inbound/mixed[mixed-in]: tcp server started at 0.0.0.0:7890
++0800 2025-12-17 09:05:42 INFO inbound/tun[tun-in]: started at tun0
++0800 2025-12-17 09:05:42 INFO outbound/tuic[tuic5_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:05:42 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:05:42 INFO outbound/hysteria2[hy2_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:05:42 INFO clash-api: restful api listening at [::]:9090
++0800 2025-12-17 09:05:42 INFO sing-box started (0.288s)
++0800 2025-12-17 09:05:43 INFO [187806260 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:64982
++0800 2025-12-17 09:05:43 INFO [855628118 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:63950
++0800 2025-12-17 09:05:43 INFO [855628118 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:05:43 INFO [187806260 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:05:43 INFO [187806260 0ms] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 09:05:43 INFO [1946057850 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63689
++0800 2025-12-17 09:05:43 INFO [1946057850 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 09:05:43 INFO [1946057850 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 09:05:43 INFO [2455763585 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:64721
++0800 2025-12-17 09:05:43 INFO [2455763585 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:05:43 INFO [861856312 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:55940
++0800 2025-12-17 09:05:43 INFO [861856312 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:05:43 INFO [2455763585 41ms] dns: exchanged CNAME www.microsoft.com. 14 IN CNAME www.microsoft.com-c-3.edgekey.net.
++0800 2025-12-17 09:05:43 INFO [2455763585 41ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net. 14 IN CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
++0800 2025-12-17 09:05:43 INFO [2455763585 41ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net. 14 IN CNAME e13678.ca2.s.tl88.net.
++0800 2025-12-17 09:05:43 INFO [2455763585 41ms] dns: exchanged A e13678.ca2.s.tl88.net. 14 IN A 218.58.101.49
++0800 2025-12-17 09:05:43 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:05:43 INFO [861856312 102ms] dns: exchanged A geo.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.4
++0800 2025-12-17 09:05:43 INFO [2148938907 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63691
++0800 2025-12-17 09:05:43 INFO [2148938907 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.4:443
++0800 2025-12-17 09:05:43 INFO [2148938907 1ms] outbound/hysteria2[hy2_out]: outbound connection to geo.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:05:44 INFO [2455763585 1.61s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:05:44 INFO [1851455627 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:58684
++0800 2025-12-17 09:05:44 INFO [1851455627 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:05:44 INFO [1471331961 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54494
++0800 2025-12-17 09:05:44 INFO [1471331961 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:443
++0800 2025-12-17 09:05:44 INFO [1471331961 0ms] outbound/hysteria2[hy2_out]: outbound connection to mtalk.google.com:443
++0800 2025-12-17 09:05:44 INFO [861856312 1.61s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:05:44 INFO [2252558753 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:60024
++0800 2025-12-17 09:05:44 INFO [2252558753 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:05:44 INFO [2252558753 0ms] outbound/hysteria2[hy2_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:05:44 INFO [1851455627 11ms] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:05:44 INFO [2342316449 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59364
++0800 2025-12-17 09:05:44 INFO [2342316449 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:05:44 INFO [2342316449 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:05:44 INFO [2455763585 1.79s] dns: exchanged A kv801.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.7
++0800 2025-12-17 09:05:44 INFO [1483799855 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59365
++0800 2025-12-17 09:05:44 INFO [1483799855 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.7:443
++0800 2025-12-17 09:05:44 INFO [1483799855 1ms] outbound/hysteria2[hy2_out]: outbound connection to kv801.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:05:47 INFO [1851455627 3.13s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:05:47 INFO [3495110908 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63800
++0800 2025-12-17 09:05:47 INFO [3495110908 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:05:47 INFO [3495110908 0ms] outbound/hysteria2[hy2_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:05:47 INFO [861856312 4.74s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:05:47 INFO [2266335183 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:60150
++0800 2025-12-17 09:05:47 INFO [2266335183 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:05:47 INFO [2266335183 0ms] outbound/hysteria2[hy2_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:05:48 INFO [2455763585 5.43s] dns: rejected CNAME settings-win.data.microsoft.com. 1498 IN CNAME atm-settingsfe-prod-geo2.trafficmanager.net.
++0800 2025-12-17 09:05:48 INFO [2455763585 5.43s] dns: rejected CNAME atm-settingsfe-prod-geo2.trafficmanager.net. 26 IN CNAME settings-prod-uks-1.uksouth.cloudapp.azure.com.
++0800 2025-12-17 09:05:48 INFO [2455763585 5.43s] dns: rejected A settings-prod-uks-1.uksouth.cloudapp.azure.com. 7 IN A 51.11.168.232
++0800 2025-12-17 09:05:48 INFO [2455763585 5.43s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:05:48 INFO [2455763585 5.43s] dns: exchanged A settings-win.data.microsoft.com. 1 IN A 198.18.0.22
++0800 2025-12-17 09:05:48 INFO [2695758109 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:60151
++0800 2025-12-17 09:05:48 INFO [2695758109 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.22:443
++0800 2025-12-17 09:05:48 INFO [2695758109 0ms] outbound/hysteria2[hy2_out]: outbound connection to settings-win.data.microsoft.com:443
++0800 2025-12-17 09:05:54 INFO [1851455627 9.30s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:05:54 INFO [3568673643 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:52787
++0800 2025-12-17 09:05:54 INFO [3568673643 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:05:54 INFO [3568673643 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:06:06 INFO [3977356328 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63311
++0800 2025-12-17 09:06:06 INFO [3977356328 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:06:06 INFO [3977356328 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:06:07 INFO [3757123465 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58219
++0800 2025-12-17 09:06:07 INFO [3757123465 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:06:07 INFO [3757123465 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:06:26 INFO [3316814244 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:52420
++0800 2025-12-17 09:06:26 INFO [3316814244 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:06:26 INFO [3316814244 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:06:27 INFO [2455763585 44.22s] dns: rejected A ogads-pa.clients6.google.com. 268 IN A 142.250.73.138
++0800 2025-12-17 09:06:27 INFO [2455763585 44.22s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:06:27 INFO [2455763585 44.22s] dns: exchanged A ogads-pa.clients6.google.com. 1 IN A 198.18.0.23
++0800 2025-12-17 09:06:27 INFO [3386341439 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57267
++0800 2025-12-17 09:06:27 INFO [3386341439 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.23:443
++0800 2025-12-17 09:06:27 INFO [3386341439 0ms] outbound/hysteria2[hy2_out]: outbound connection to ogads-pa.clients6.google.com:443
++0800 2025-12-17 09:06:28 INFO [861856312 45.21s] dns: rejected A play.google.com. 54 IN A 93.46.8.90
++0800 2025-12-17 09:06:28 INFO [861856312 45.21s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:06:28 INFO [861856312 45.21s] dns: exchanged A play.google.com. 1 IN A 198.18.0.24
++0800 2025-12-17 09:06:28 INFO [3967368225 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:50658
++0800 2025-12-17 09:06:28 INFO [3967368225 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.24:443
++0800 2025-12-17 09:06:28 INFO [3967368225 1ms] outbound/hysteria2[hy2_out]: outbound connection to play.google.com:443
++0800 2025-12-17 09:06:28 INFO [2455763585 45.65s] dns: exchanged A alive.github.com. 1 IN A 198.18.0.11
++0800 2025-12-17 09:06:28 INFO [602339982 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54582
++0800 2025-12-17 09:06:28 INFO [602339982 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.11:443
++0800 2025-12-17 09:06:28 INFO [602339982 1ms] outbound/hysteria2[hy2_out]: outbound connection to alive.github.com:443
++0800 2025-12-17 09:06:30 INFO [861856312 47.52s] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 09:06:30 INFO [1510817675 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54583
++0800 2025-12-17 09:06:30 INFO [1510817675 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 09:06:30 INFO [1510817675 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 09:06:30 INFO [1851455627 45.92s] dns: exchanged A ipv6.msftconnecttest.com. 1 IN A 198.18.0.21
++0800 2025-12-17 09:06:30 INFO [956648381 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54584
++0800 2025-12-17 09:06:30 INFO [956648381 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.21:80
++0800 2025-12-17 09:06:30 INFO [956648381 0ms] outbound/hysteria2[hy2_out]: outbound connection to ipv6.msftconnecttest.com:80
++0800 2025-12-17 09:06:31 ERROR [956648381 581ms] connection: connection download closed: remote error: open connection to ipv6.msftconnecttest.com:80 using outbound/socks[residential_proxy]: socks5: request rejected, code=4
++0800 2025-12-17 09:07:45 INFO network: updated default interface 以太网, index 6
++0800 2025-12-17 09:07:45 INFO inbound/mixed[mixed-in]: tcp server started at 0.0.0.0:7890
++0800 2025-12-17 09:07:45 INFO inbound/tun[tun-in]: started at tun0
++0800 2025-12-17 09:07:45 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:07:45 INFO outbound/tuic[tuic5_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:07:45 INFO outbound/hysteria2[hy2_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:07:45 INFO clash-api: restful api listening at [::]:9090
++0800 2025-12-17 09:07:45 INFO sing-box started (0.277s)
++0800 2025-12-17 09:07:45 INFO [473395423 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:57981
++0800 2025-12-17 09:07:45 INFO [473395423 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:45 INFO [951811344 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:55702
++0800 2025-12-17 09:07:45 INFO [951811344 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:45 INFO [473395423 0ms] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 09:07:45 INFO [2379926462 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57198
++0800 2025-12-17 09:07:45 INFO [2379926462 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 09:07:45 INFO [2379926462 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 09:07:45 INFO [3185514176 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:61879
++0800 2025-12-17 09:07:45 INFO [3185514176 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:45 INFO [2913651978 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:50404
++0800 2025-12-17 09:07:45 INFO [2913651978 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:45 INFO [2913651978 25ms] dns: exchanged A geo.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.4
++0800 2025-12-17 09:07:45 INFO [4092191160 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:61497
++0800 2025-12-17 09:07:45 INFO [4092191160 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:45 INFO [2644518796 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57200
++0800 2025-12-17 09:07:45 INFO [2644518796 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.4:443
++0800 2025-12-17 09:07:45 INFO [2644518796 0ms] outbound/hysteria2[hy2_out]: outbound connection to geo.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:07:45 INFO [3185514176 40ms] dns: exchanged CNAME www.microsoft.com. 5 IN CNAME www.microsoft.com-c-3.edgekey.net.
++0800 2025-12-17 09:07:45 INFO [3185514176 40ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net. 5 IN CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
++0800 2025-12-17 09:07:45 INFO [3185514176 40ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net. 5 IN CNAME e13678.ca2.s.tl88.net.
++0800 2025-12-17 09:07:45 INFO [3185514176 40ms] dns: exchanged A e13678.ca2.s.tl88.net. 5 IN A 218.58.101.49
++0800 2025-12-17 09:07:45 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:07:47 INFO [2913651978 1.56s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:07:47 INFO [4092191160 1.53s] dns: exchanged A github.com. 1 IN A 198.18.0.14
++0800 2025-12-17 09:07:47 INFO [1063536794 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:61983
++0800 2025-12-17 09:07:47 INFO [1063536794 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:47 INFO [2786282412 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:58068
++0800 2025-12-17 09:07:47 INFO [2786282412 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:47 INFO [2786282412 0ms] dns: exchanged A github.githubassets.com. 1 IN A 198.18.0.13
++0800 2025-12-17 09:07:47 INFO [2153993973 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:61569
++0800 2025-12-17 09:07:47 INFO [2153993973 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:07:47 INFO [3864736604 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59551
++0800 2025-12-17 09:07:47 INFO [3864736604 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:47 INFO [3327316244 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:59607
++0800 2025-12-17 09:07:47 INFO [3327316244 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:07:47 INFO [3327316244 0ms] outbound/hysteria2[hy2_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:07:47 INFO [3864736604 1ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:47 INFO [4059564121 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57330
++0800 2025-12-17 09:07:47 INFO [4059564121 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:07:47 INFO [4059564121 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:07:47 INFO [3185514176 1.57s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:07:47 INFO [1287479501 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54179
++0800 2025-12-17 09:07:47 INFO [1287479501 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:07:47 INFO [1287479501 0ms] outbound/hysteria2[hy2_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:07:47 INFO [4092191160 1.66s] dns: exchanged A kv801.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.7
++0800 2025-12-17 09:07:47 INFO [713932428 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54180
++0800 2025-12-17 09:07:47 INFO [713932428 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.7:443
++0800 2025-12-17 09:07:47 INFO [713932428 1ms] outbound/hysteria2[hy2_out]: outbound connection to kv801.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:07:48 INFO [2153993973 931ms] dns: exchanged A collector.github.com. 1 IN A 198.18.0.12
++0800 2025-12-17 09:07:48 INFO [1907734906 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63613
++0800 2025-12-17 09:07:48 INFO [1907734906 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:07:48 INFO [1907734906 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:07:48 INFO [2913651978 2.95s] dns: exchanged A api.github.com. 1 IN A 198.18.0.16
++0800 2025-12-17 09:07:48 INFO [1925674532 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:53321
++0800 2025-12-17 09:07:48 INFO [1925674532 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:07:48 INFO [1925674532 1ms] outbound/hysteria2[hy2_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:07:48 INFO [1063536794 1.40s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:07:48 INFO [2786282412 1.40s] dns: exchanged A avatars.githubusercontent.com. 1 IN A 198.18.0.17
++0800 2025-12-17 09:07:48 INFO [1449184170 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:62122
++0800 2025-12-17 09:07:48 INFO [1449184170 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:07:48 INFO [1014562709 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58703
++0800 2025-12-17 09:07:48 INFO [1014562709 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:07:48 INFO [1449184170 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:07:48 INFO [1014562709 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:07:48 INFO [3759568802 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61453
++0800 2025-12-17 09:07:48 INFO [3759568802 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.17:443
++0800 2025-12-17 09:07:48 INFO [3759568802 0ms] outbound/hysteria2[hy2_out]: outbound connection to avatars.githubusercontent.com:443
++0800 2025-12-17 09:07:48 INFO [3185514176 2.96s] dns: exchanged A user-images.githubusercontent.com. 1 IN A 198.18.0.18
++0800 2025-12-17 09:07:48 INFO [4092191160 2.94s] dns: exchanged A github-cloud.s3.amazonaws.com. 1 IN A 198.18.0.19
++0800 2025-12-17 09:07:48 INFO [2153993973 1.47s] dns: exchanged A github.githubassets.com. 1 IN A 198.18.0.13
++0800 2025-12-17 09:07:48 INFO [495436738 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55970
++0800 2025-12-17 09:07:48 INFO [495436738 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.17:443
++0800 2025-12-17 09:07:48 INFO [495436738 0ms] outbound/hysteria2[hy2_out]: outbound connection to avatars.githubusercontent.com:443
++0800 2025-12-17 09:07:48 INFO [460081220 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:65280
++0800 2025-12-17 09:07:48 INFO [460081220 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:07:48 INFO [460081220 1ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:07:50 INFO [2786282412 3.49s] dns: exchanged A github.com. 1 IN A 198.18.0.14
++0800 2025-12-17 09:07:50 INFO [3185514176 5.5s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:07:50 INFO [1063536794 3.49s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:07:50 INFO [2913651978 5.5s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:07:50 INFO [234325907 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55100
++0800 2025-12-17 09:07:50 INFO [234325907 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:50 INFO [2187604621 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:54771
++0800 2025-12-17 09:07:50 INFO [2187604621 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:07:50 INFO [1667718218 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64621
++0800 2025-12-17 09:07:50 INFO [1667718218 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:07:50 INFO [2889986750 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51754
++0800 2025-12-17 09:07:50 INFO [2889986750 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:07:50 INFO [234325907 1ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:50 INFO [2187604621 1ms] outbound/hysteria2[hy2_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:07:50 INFO [1667718218 1ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:07:50 INFO [2889986750 2ms] outbound/hysteria2[hy2_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:07:51 INFO [4270023751 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57721
++0800 2025-12-17 09:07:51 INFO [4270023751 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:51 INFO [2085467015 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:52932
++0800 2025-12-17 09:07:51 INFO [2085467015 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:51 INFO [1382084919 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64359
++0800 2025-12-17 09:07:51 INFO [1382084919 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:51 INFO [2246903726 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63388
++0800 2025-12-17 09:07:51 INFO [2246903726 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:51 INFO [280740530 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57181
++0800 2025-12-17 09:07:51 INFO [280740530 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:07:51 INFO [4270023751 2ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:51 INFO [2085467015 2ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:51 INFO [1382084919 2ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:51 INFO [280740530 2ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:51 INFO [2246903726 4ms] outbound/hysteria2[hy2_out]: outbound connection to github.com:443
++0800 2025-12-17 09:07:52 INFO [4092191160 6.18s] dns: exchanged A collector.github.com. 1 IN A 198.18.0.12
++0800 2025-12-17 09:07:52 INFO [3299710047 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:65204
++0800 2025-12-17 09:07:52 INFO [3299710047 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:07:52 INFO [3299710047 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:07:52 INFO [2153993973 4.66s] dns: exchanged A api.github.com. 1 IN A 198.18.0.16
++0800 2025-12-17 09:07:52 INFO [1717311464 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58140
++0800 2025-12-17 09:07:52 INFO [1717311464 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:07:52 INFO [1717311464 0ms] outbound/hysteria2[hy2_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:07:52 INFO [1090662216 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64001
++0800 2025-12-17 09:07:52 INFO [1090662216 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:07:52 INFO [1090662216 2ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:07:52 INFO [3661872388 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63010
++0800 2025-12-17 09:07:52 INFO [3661872388 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:07:52 INFO [3661872388 0ms] outbound/hysteria2[hy2_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:07:58 INFO [2718810866 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:58681
++0800 2025-12-17 09:07:58 INFO [2718810866 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:07:58 INFO [2718810866 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:07:59 INFO [2811884285 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57220
++0800 2025-12-17 09:07:59 INFO [2811884285 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:07:59 INFO [2811884285 0ms] outbound/hysteria2[hy2_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:07:59 INFO [2786282412 11.91s] dns: exchanged A github-cloud.s3.amazonaws.com. 1 IN A 198.18.0.19
++0800 2025-12-17 09:07:59 INFO [1063536794 11.91s] dns: exchanged A user-images.githubusercontent.com. 1 IN A 198.18.0.18
++0800 2025-12-17 09:07:59 INFO [4092191160 13.49s] dns: exchanged A content-autofill.googleapis.com. 1 IN A 198.18.0.20
++0800 2025-12-17 09:07:59 INFO [3372147682 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64692
++0800 2025-12-17 09:07:59 INFO [3372147682 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.20:443
++0800 2025-12-17 09:07:59 INFO [3372147682 0ms] outbound/hysteria2[hy2_out]: outbound connection to content-autofill.googleapis.com:443
++0800 2025-12-17 09:08:08 INFO [2598105853 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:63447
++0800 2025-12-17 09:08:08 INFO [2598105853 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:08:08 INFO [2598105853 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:08:10 INFO [2427472920 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:49436
++0800 2025-12-17 09:08:10 INFO [2427472920 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:08:10 INFO [2427472920 0ms] outbound/hysteria2[hy2_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:11:31 INFO network: updated default interface 以太网, index 6
++0800 2025-12-17 09:11:31 INFO inbound/mixed[mixed-in]: tcp server started at 0.0.0.0:7890
++0800 2025-12-17 09:11:32 INFO inbound/tun[tun-in]: started at tun0
++0800 2025-12-17 09:11:32 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:11:32 INFO outbound/hysteria2[hy2_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:11:32 INFO outbound/tuic[tuic5_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:11:32 INFO clash-api: restful api listening at [::]:9090
++0800 2025-12-17 09:11:32 INFO sing-box started (0.477s)
++0800 2025-12-17 09:11:32 INFO [1922298789 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:63321
++0800 2025-12-17 09:11:32 INFO [1922298789 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:32 INFO [3163374027 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:64775
++0800 2025-12-17 09:11:32 INFO [3163374027 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:32 INFO [1922298789 0ms] dns: exchanged A www.msftconnecttest.com. 1 IN A 198.18.0.3
++0800 2025-12-17 09:11:32 INFO [165689031 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61127
++0800 2025-12-17 09:11:32 INFO [165689031 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.3:80
++0800 2025-12-17 09:11:32 INFO [165689031 0ms] outbound/hysteria2[hy2_out]: outbound connection to www.msftconnecttest.com:80
++0800 2025-12-17 09:11:32 INFO [186390165 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:53317
++0800 2025-12-17 09:11:32 INFO [186390165 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:32 INFO [186390165 0ms] dns: exchanged A geo.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.4
++0800 2025-12-17 09:11:32 INFO [441990248 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:60727
++0800 2025-12-17 09:11:32 INFO [441990248 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:32 INFO [174575978 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61128
++0800 2025-12-17 09:11:32 INFO [174575978 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.4:443
++0800 2025-12-17 09:11:32 INFO [174575978 1ms] outbound/hysteria2[hy2_out]: outbound connection to geo.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:11:32 INFO [186390165 82ms] dns: exchanged CNAME www.microsoft.com. 20 IN CNAME www.microsoft.com-c-3.edgekey.net.
++0800 2025-12-17 09:11:32 INFO [186390165 82ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net. 20 IN CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
++0800 2025-12-17 09:11:32 INFO [186390165 82ms] dns: exchanged CNAME www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net. 20 IN CNAME e13678.ca2.s.tl88.net.
++0800 2025-12-17 09:11:32 INFO [186390165 82ms] dns: exchanged A e13678.ca2.s.tl88.net. 20 IN A 218.58.101.49
++0800 2025-12-17 09:11:32 INFO outbound/vless[vless_reality_out]: outbound connection to cp.cloudflare.com:80
++0800 2025-12-17 09:11:34 INFO [186390165 1.51s] dns: exchanged A api.github.com. 1 IN A 198.18.0.16
++0800 2025-12-17 09:11:34 INFO [441990248 1.51s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:11:34 INFO [1527589239 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:54684
++0800 2025-12-17 09:11:34 INFO [1527589239 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [134200319 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:62376
++0800 2025-12-17 09:11:34 INFO [134200319 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [2558994326 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:61685
++0800 2025-12-17 09:11:34 INFO [2558994326 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [1584306212 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:49739
++0800 2025-12-17 09:11:34 INFO [1584306212 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [2671522222 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:54338
++0800 2025-12-17 09:11:34 INFO [2558994326 0ms] dns: exchanged A github.com. 1 IN A 198.18.0.14
++0800 2025-12-17 09:11:34 INFO [3022339776 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:53951
++0800 2025-12-17 09:11:34 INFO [2671522222 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [3022339776 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [1998437651 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:64179
++0800 2025-12-17 09:11:34 INFO [4261284605 0ms] inbound/tun[tun-in]: inbound packet connection from [fdfe:dcba:9876::1]:59790
++0800 2025-12-17 09:11:34 INFO [4261284605 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [1584306212 0ms] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:11:34 INFO [1998437651 0ms] inbound/tun[tun-in]: inbound packet connection to [fdfe:dcba:9876::2]:53
++0800 2025-12-17 09:11:34 INFO [2671522222 0ms] dns: exchanged A github.githubassets.com. 1 IN A 198.18.0.13
++0800 2025-12-17 09:11:34 INFO [2144920813 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55117
++0800 2025-12-17 09:11:34 INFO [2144920813 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:11:34 INFO [3330206826 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57772
++0800 2025-12-17 09:11:34 INFO [3330206826 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:11:34 INFO [1555999436 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:65465
++0800 2025-12-17 09:11:34 INFO [1555999436 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:11:34 INFO [1933482201 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55311
++0800 2025-12-17 09:11:34 INFO [1933482201 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:34 INFO [2144920813 0ms] outbound/tuic[tuic5_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:11:34 INFO [3330206826 0ms] outbound/tuic[tuic5_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:11:34 INFO [1555999436 0ms] outbound/tuic[tuic5_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:11:34 INFO [1933482201 0ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:34 INFO [1722669808 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:49912
++0800 2025-12-17 09:11:34 INFO [1722669808 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:11:34 INFO [1722669808 0ms] outbound/tuic[tuic5_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:11:34 INFO [4261284605 376ms] dns: exchanged A kv801.prod.do.dsp.mp.microsoft.com. 1 IN A 198.18.0.7
++0800 2025-12-17 09:11:34 INFO [2200935449 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:49913
++0800 2025-12-17 09:11:34 INFO [2200935449 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.7:443
++0800 2025-12-17 09:11:34 INFO [2200935449 0ms] outbound/tuic[tuic5_out]: outbound connection to kv801.prod.do.dsp.mp.microsoft.com:443
++0800 2025-12-17 09:11:35 INFO [1998437651 1.31s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:11:35 INFO [186390165 2.83s] dns: exchanged A avatars.githubusercontent.com. 1 IN A 198.18.0.17
++0800 2025-12-17 09:11:35 INFO [750246301 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57573
++0800 2025-12-17 09:11:35 INFO [750246301 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:11:35 INFO [1344944369 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61859
++0800 2025-12-17 09:11:35 INFO [1344944369 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:11:35 INFO [750246301 0ms] outbound/tuic[tuic5_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:11:35 INFO [1344944369 0ms] outbound/tuic[tuic5_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:11:35 INFO [307129518 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:56741
++0800 2025-12-17 09:11:35 INFO [307129518 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.17:443
++0800 2025-12-17 09:11:35 INFO [307129518 0ms] outbound/tuic[tuic5_out]: outbound connection to avatars.githubusercontent.com:443
++0800 2025-12-17 09:11:35 INFO [134200319 1.31s] dns: exchanged A github-cloud.s3.amazonaws.com. 1 IN A 198.18.0.19
++0800 2025-12-17 09:11:35 INFO [1527589239 1.31s] dns: exchanged A user-images.githubusercontent.com. 1 IN A 198.18.0.18
++0800 2025-12-17 09:11:35 INFO [2671522222 1.38s] dns: exchanged A avatars.githubusercontent.com. 1 IN A 198.18.0.17
++0800 2025-12-17 09:11:35 INFO [1998437651 1.38s] dns: exchanged A github.githubassets.com. 1 IN A 198.18.0.13
++0800 2025-12-17 09:11:35 INFO [2001243743 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61316
++0800 2025-12-17 09:11:35 INFO [2001243743 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:11:35 INFO [2001243743 0ms] outbound/tuic[tuic5_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:11:35 INFO [3998953517 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:61737
++0800 2025-12-17 09:11:35 INFO [3998953517 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.17:443
++0800 2025-12-17 09:11:35 INFO [3998953517 0ms] outbound/tuic[tuic5_out]: outbound connection to avatars.githubusercontent.com:443
++0800 2025-12-17 09:11:37 INFO [441990248 4.90s] dns: exchanged A aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com. 1 IN A 198.18.0.5
++0800 2025-12-17 09:11:37 INFO [186390165 4.90s] dns: exchanged A github.com. 1 IN A 198.18.0.14
++0800 2025-12-17 09:11:37 INFO [4261284605 3.39s] dns: exchanged A mtalk.google.com. 1 IN A 198.18.0.6
++0800 2025-12-17 09:11:37 INFO [1584306212 3.39s] dns: exchanged A www.google.com. 1 IN A 198.18.0.10
++0800 2025-12-17 09:11:37 INFO [4209605302 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:49585
++0800 2025-12-17 09:11:37 INFO [4209605302 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.5:443
++0800 2025-12-17 09:11:37 INFO [3178002267 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51947
++0800 2025-12-17 09:11:37 INFO [3178002267 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:37 INFO [2257516629 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64437
++0800 2025-12-17 09:11:37 INFO [2257516629 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.6:5228
++0800 2025-12-17 09:11:37 INFO [4209605302 1ms] outbound/tuic[tuic5_out]: outbound connection to aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com:443
++0800 2025-12-17 09:11:37 INFO [2250926145 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57471
++0800 2025-12-17 09:11:37 INFO [2250926145 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:11:37 INFO [3178002267 1ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:37 INFO [2250926145 1ms] outbound/tuic[tuic5_out]: outbound connection to www.google.com:443
++0800 2025-12-17 09:11:37 INFO [2257516629 1ms] outbound/tuic[tuic5_out]: outbound connection to mtalk.google.com:5228
++0800 2025-12-17 09:11:37 INFO [1440213871 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57125
++0800 2025-12-17 09:11:37 INFO [1440213871 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:37 INFO [3886163064 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51075
++0800 2025-12-17 09:11:37 INFO [3886163064 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:37 INFO [4195843427 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:60256
++0800 2025-12-17 09:11:37 INFO [4195843427 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:37 INFO [3580514738 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:55385
++0800 2025-12-17 09:11:37 INFO [3580514738 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:37 INFO [2198487563 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:64709
++0800 2025-12-17 09:11:37 INFO [2198487563 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.14:443
++0800 2025-12-17 09:11:37 INFO [3886163064 0ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:37 INFO [1440213871 1ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:37 INFO [4195843427 1ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:37 INFO [3580514738 1ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:37 INFO [2198487563 2ms] outbound/tuic[tuic5_out]: outbound connection to github.com:443
++0800 2025-12-17 09:11:38 INFO [134200319 4.63s] dns: exchanged A collector.github.com. 1 IN A 198.18.0.12
++0800 2025-12-17 09:11:38 INFO [501145384 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:57696
++0800 2025-12-17 09:11:38 INFO [501145384 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:11:38 INFO [501145384 0ms] outbound/tuic[tuic5_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:11:38 INFO [1998437651 4.65s] dns: exchanged A api.github.com. 1 IN A 198.18.0.16
++0800 2025-12-17 09:11:38 INFO [3762090691 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51279
++0800 2025-12-17 09:11:38 INFO [3762090691 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:11:38 INFO [3762090691 0ms] outbound/tuic[tuic5_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:11:38 INFO [3166048326 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:62036
++0800 2025-12-17 09:11:38 INFO [3166048326 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:11:38 INFO [3166048326 0ms] outbound/tuic[tuic5_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:11:38 INFO [3387603146 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:62760
++0800 2025-12-17 09:11:38 INFO [3387603146 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.12:443
++0800 2025-12-17 09:11:38 INFO [1115406229 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:65309
++0800 2025-12-17 09:11:38 INFO [1115406229 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.16:443
++0800 2025-12-17 09:11:38 INFO [3387603146 0ms] outbound/tuic[tuic5_out]: outbound connection to collector.github.com:443
++0800 2025-12-17 09:11:38 INFO [1115406229 0ms] outbound/tuic[tuic5_out]: outbound connection to api.github.com:443
++0800 2025-12-17 09:11:43 INFO [441990248 11.9s] dns: exchanged A github-cloud.s3.amazonaws.com. 1 IN A 198.18.0.19
++0800 2025-12-17 09:11:43 INFO [186390165 11.9s] dns: exchanged A user-images.githubusercontent.com. 1 IN A 198.18.0.18
++0800 2025-12-17 09:11:44 INFO [1527589239 10.10s] dns: exchanged A content-autofill.googleapis.com. 1 IN A 198.18.0.20
++0800 2025-12-17 09:11:44 INFO [164360622 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:60687
++0800 2025-12-17 09:11:44 INFO [164360622 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.20:443
++0800 2025-12-17 09:11:44 INFO [164360622 0ms] outbound/tuic[tuic5_out]: outbound connection to content-autofill.googleapis.com:443
++0800 2025-12-17 09:11:45 INFO [2671522222 11.82s] dns: rejected CNAME objects-origin.githubusercontent.com. 1 IN CNAME glb-db52c2cf8be544.github.com.
++0800 2025-12-17 09:11:45 INFO [2671522222 11.82s] dns: rejected A glb-db52c2cf8be544.github.com. 21 IN A 140.82.114.22
++0800 2025-12-17 09:11:45 INFO [2671522222 11.82s] dns: rejected OPT OPT PSEUDOSECTION: EDNS: version 0 flags: udp: 1232
++0800 2025-12-17 09:11:45 INFO [2671522222 11.83s] dns: exchanged A objects-origin.githubusercontent.com. 1 IN A 198.18.0.25
++0800 2025-12-17 09:11:45 INFO [2902637064 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:53973
++0800 2025-12-17 09:11:45 INFO [2902637064 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.25:443
++0800 2025-12-17 09:11:45 INFO [2902637064 3ms] outbound/tuic[tuic5_out]: outbound connection to objects-origin.githubusercontent.com:443
++0800 2025-12-17 09:11:49 INFO [4106027112 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:62111
++0800 2025-12-17 09:11:49 INFO [4106027112 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.13:443
++0800 2025-12-17 09:11:49 INFO [4106027112 0ms] outbound/tuic[tuic5_out]: outbound connection to github.githubassets.com:443
++0800 2025-12-17 09:11:49 INFO [4156517136 0ms] inbound/tun[tun-in]: inbound connection from 172.18.0.1:51905
++0800 2025-12-17 09:11:49 INFO [4156517136 0ms] inbound/tun[tun-in]: inbound connection to 198.18.0.10:443
++0800 2025-12-17 09:11:49 INFO [4156517136 0ms] outbound/tuic[tuic5_out]: outbound connection to www.google.com:443
