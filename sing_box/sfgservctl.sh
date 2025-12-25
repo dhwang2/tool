@@ -156,26 +156,26 @@ install_sb_command() {
     # 备份本脚本到工作目录，用于后续管理
     # 如果当前脚本是本地文件，则直接复制
     if [[ -f "$0" ]]; then
-        cp "$0" "${WORK_DIR}/install.sh"
+        cp "$0" "${WORK_DIR}/sfgservctl.sh"
     else
         # 否则（如通过管道执行），从 GitHub 下载
         green "正在下载管理脚本..."
-        local script_url="https://raw.githubusercontent.com/dhwang2/sing-box/main/install/install.sh"
+        local script_url="https://raw.githubusercontent.com/dhwang2/tool/main/sing-box/install/sfgservctl.sh"
         # 尝试下载
-        wget -O "${WORK_DIR}/install.sh" "${script_url}" || \
-        wget -O "${WORK_DIR}/install.sh" "${GITHUB_PROXY}${script_url}"
+        wget -O "${WORK_DIR}/sfgservctl.sh" "${script_url}" || \
+        wget -O "${WORK_DIR}/sfgservctl.sh" "${GITHUB_PROXY}${script_url}"
         
-        if [[ ! -f "${WORK_DIR}/install.sh" ]]; then
+        if [[ ! -f "${WORK_DIR}/sfgservctl.sh" ]]; then
             red "管理脚本下载失败，'sb' 命令可能无法使用！"
         fi
     fi
-    chmod +x "${WORK_DIR}/install.sh"
+    chmod +x "${WORK_DIR}/sfgservctl.sh"
 
     # 创建快捷指令 /usr/bin/sb
     # 注意: 使用 "\$@" 来传递参数，并转义 $ 符号，防止在生成文件时被展开
     cat > /usr/bin/sb <<EOF
 #!/bin/bash
-bash ${WORK_DIR}/install.sh "\$@"
+bash ${WORK_DIR}/sfgservctl.sh "\$@"
 EOF
     chmod +x /usr/bin/sb
 }
@@ -242,7 +242,7 @@ uninstall_singbox() {
         systemctl daemon-reload
         rm -f "$BIN_FILE"
         rm -f /usr/bin/sb
-        rm -f "${WORK_DIR}/install.sh"
+        rm -f "${WORK_DIR}/sfgservctl.sh"
         green "Sing-box 已卸载。配置文件保留在 ${WORK_DIR}。"
     fi
 }
