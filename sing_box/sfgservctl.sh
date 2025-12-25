@@ -192,7 +192,7 @@ show_menu() {
     echo " 2. 停止 Sing-box"
     echo " 3. 重启 Sing-box"
     echo " 4. 查看 运行状态"
-    echo " 5. 查看 实时日志"
+    echo " 5. 查看 日志 (最后100行)"
     echo "----------------------------------"
     echo " 6. 更新 Sing-box 内核"
     echo " 7. 卸载 Sing-box"
@@ -203,8 +203,8 @@ show_menu() {
         1) systemctl start sing-box && green "已启动" ;;
         2) systemctl stop sing-box && green "已停止" ;;
         3) systemctl restart sing-box && green "已重启" ;;
-        4) systemctl status sing-box ;; 
-        5) journalctl -u sing-box -f -n 100 ;; 
+        4) systemctl status sing-box --no-pager ;; 
+        5) journalctl -u sing-box --no-pager -n 100 ;; 
         6) update_core ;; 
         7) uninstall_singbox ;; 
         0) exit 0 ;; 
