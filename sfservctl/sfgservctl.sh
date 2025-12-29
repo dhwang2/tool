@@ -160,7 +160,7 @@ install_sb_command() {
     else
         # 否则（如通过管道执行），从 GitHub 下载
         green "正在下载管理脚本..."
-        local script_url="https://raw.githubusercontent.com/dhwang2/tool/main/sing_box/sfgservctl.sh"
+        local script_url="https://raw.githubusercontent.com/dhwang2/tool/main/sfservctl/sfgservctl.sh"
         # 尝试下载
         wget -O "${WORK_DIR}/sfgservctl.sh" "${script_url}" || \
         wget -O "${WORK_DIR}/sfgservctl.sh" "${GITHUB_PROXY}${script_url}"
