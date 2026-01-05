@@ -39,17 +39,28 @@ INSTALL_SCRIPT_URL="https://raw.githubusercontent.com/${REPO_USER}/${PRIVATE_REP
 ENV_SCRIPT_URL="https://raw.githubusercontent.com/${REPO_USER}/${PRIVATE_REPO}/${BRANCH}/scripts/env.sh"
 
 green "正在从私有仓库拉取安装脚本..."
-# -H "Authorization: token $PAT"
-curl -s -H "Authorization: token $PAT" -L "$INSTALL_SCRIPT_URL" -o "$INSTALL_DIR/install.sh"
-curl -s -H "Authorization: token $PAT" -L "$ENV_SCRIPT_URL" -o "$INSTALL_DIR/env.sh"
 
-if [[ ! -s "$INSTALL_DIR/install.sh" ]] || [[ ! -s "$INSTALL_DIR/env.sh" ]]; then
-    red "下载失败！请检查："
-    echo "1. PAT 是否正确且有权限访问该私有仓库。"
-    echo "2. 仓库地址是否正确: $REPO_USER/$PRIVATE_REPO"
-    echo "3. 脚本路径是否存在: scripts/install.sh"
-    exit 1
-fi
+download_file() {
+    local url="$1"
+    local out="$2"
+    local http_code
+    
+    http_code=$(curl -s -w "%{http_code}" -H "Authorization: token $PAT" -L "$url" -o "$out")
+    
+    if [[ "$http_code" != "200" ]]; then
+        red "下载失败: $url"
+        red "HTTP 状态码: $http_code"
+        if [[ -s "$out" ]]; then
+            echo "服务器返回内容:"
+            cat "$out"
+        fi
+        return 1
+    fi
+    return 0
+}
+
+download_file "$INSTALL_SCRIPT_URL" "$INSTALL_DIR/install.sh" || exit 1
+download_file "$ENV_SCRIPT_URL" "$INSTALL_DIR/env.sh" || exit 1
 
 chmod +x "$INSTALL_DIR/install.sh"
 
