@@ -1,2 +1,6 @@
-.DS_Store
-**/.DS_Store
+# 忽略所有文件
+/*
+
+# 允许追踪的文件
+!/install-singbox.sh
+!/.gitignore
